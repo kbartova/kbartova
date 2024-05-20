@@ -1,6 +1,6 @@
 # Hello, I'm Kristyna Bartova 👋
 
-I'm a passionate Web Application Engineer with a strong background in Laravel and MERN Stack. I love building innovative web applications that [mention your goals/passions].
+I'm a passionate Web Application Engineer with a strong background in Laravel and MERN Stack. I love building innovative web applications.
 
 ## 🔧 Skills & Technologies
 
